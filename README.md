@@ -1,6 +1,8 @@
 # Data Structures and Algorithms (following Neetcode course)
 
-<img src="images/Data%20Structures%20and%20Algorithms.png" alt="Data Structures and Algorithms diagram" width="600">
+<p align="center">
+  <img src="images/Data%20Structures%20and%20Algorithms.png" alt="Data Structures and Algorithms diagram" width="600">
+</p>
 
 ## RAM
 
