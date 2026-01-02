@@ -1,5 +1,7 @@
 # Data Structures and Algorithms (following Neetcode course)
 
+<img src="images/Data%20Structures%20and%20Algorithms.png" alt="Data Structures and Algorithms diagram" width="600">
+
 ## RAM
 
 Data structure is a way to store data in an efficient manner inside of a computer component called `Random Access Memory (RAM)`. An array is a data structure which is used to store the elements in a contiguous order. When we store an array in RAM, each element is stored continuously in order. An integer takes 4 bytes of space in the memory and each byte has 8 bits. A `bit` is a fundamental unit of memory that stores either `1 or 0`. An `address` and `value` gets associated with an integer upon storing it in RAM. An address is just a distinct location that each one of its values is stored at. Each value is stored continuously in the RAM.
